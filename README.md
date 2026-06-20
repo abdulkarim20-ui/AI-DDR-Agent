@@ -15,9 +15,10 @@ An AI-powered system that automatically generates professional **Detailed Defect
 Watch the detailed walkthrough here:
 👉 [Loom Walkthrough](https://www.loom.com/share/3d508f29d67d4492b2283eae4504cf29)
 
-<video src="assets/DEMO.mp4" width="100%" controls></video>
+> GitHub README does not reliably play embedded MP4 video files.
+> Use the direct video link below if the player does not load.
 
-If the video does not load, you can access it directly [here](assets/DEMO.mp4).
+[Open demo video](assets/DEMO.mp4)
 
 ---
 
