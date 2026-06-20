@@ -1,0 +1,6 @@
+groq
+pdfplumber
+python-dotenv
+streamlit
+reportlab
+PyMuPDF
