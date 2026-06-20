@@ -23,6 +23,7 @@ data/samples/*.pdf
 !data/samples/README.md
 assets/*.mp4
 assets/*.mov
+!assets/DEMO.mp4
 
 # Streamlit
 .streamlit/
